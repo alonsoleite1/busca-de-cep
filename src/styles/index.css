@@ -1,0 +1,12 @@
+
+  /*@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+*/
+
+  body{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    
+  }
+  .button_delete{
+   padding: 8px;
+   background-image: url(../imgs/trash-solid.svg);
+  }
